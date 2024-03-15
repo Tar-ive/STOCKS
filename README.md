@@ -1,5 +1,5 @@
 # STOCKS Repository
-
+Check out the code branch for the code. 
 ## Description
 This repository contains a collection of Jupyter notebooks dedicated to stock analysis, including portfolio optimization, sector screening, stock prediction using ADABoost, and various trading strategies.
 
